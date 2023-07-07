@@ -1,0 +1,32 @@
+Bord_Pierre-Henri_1_veille_062023
+Bord_Pierre-Henri_4_solution_technique_062023
+Bord_Pierre-Henri_3_kanban_062023
+
+
+https://openclassrooms.notion.site/abd02d8dda9d44409e15699da62719f0?v=07313c40e99d4e7fb07f0a8eb3291f6d
+
+https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P7+solution+technique+Menu+Maker+Qwenta/Menu+Maker+by+Qwenta+%E2%80%93+Spe%CC%81cifications+fonctionnelles.pdf
+
+https://www.figma.com/file/Q6NEUPqwz1U3HFaCaVoF7N/Maquette-desktop---Menu-Maker-by-Qwenta?type=design&node-id=0-1&t=GLAEwZvdRdAGqLWn-
+
+
+========
+
+
+
+- faire une optimisation globale du site, tant sur les performances que sur le SEO ;
+- mettre en place le référencement local en utilisant Schema.org ;
+- ajouter les metas pour les réseaux sociaux ;
+- faire les modifications liées à l’accessibilité du site ;
+- produire un rapport d’optimisation présentant toutes vos actions et leur impact.
+
+bugs dans le code :
+- La navigation dans la modale de la galerie entre images précédente et suivante ne fonctionne pas. 
+- Lorsque l’on change de filtre pour afficher les images, on ne voit pas quelle catégorie est sélectionnée. Normalement, la catégorie devrait avoir la couleur dorée en fond. Comme pour le filtre par défaut. 
+
+LIVRABLE
+- Fichier TXT ou PDF contenant un lien vers le repo GitHub du code modifié
+- Rapport d’intervention au format PDF listant toutes les modifications apportées au site internet (basé sur le modèle fourni), et contenant :
+	- Une capture d’écran de l’audit Google Rich Snippet après optimisation.
+	- Les captures d’écran de la page du site avec l’extension Wave, ainsi que des scores Lighthouse avant et après l’optimisation, montrant l’absence d’erreur d’accessibilité.
+	- Le rapport d’audit Lighthouse complet après amélioration du site.
